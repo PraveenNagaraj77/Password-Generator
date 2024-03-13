@@ -98,12 +98,19 @@ body {
         cursor: pointer;
       }
     
-    .container h1 {
-      font-size: 36px;
-    }
     
     .container button {
       font-size: 18px;
       padding: 12px 20px;
     }
+    .display input {
+        border: 0;
+        outline: 0;
+        font-size: 18px;
+    }
+    .container h1{
+        font-size: 20px;
+        font-weight: 300;
+    }
+
   }
